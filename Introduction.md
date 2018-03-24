@@ -23,7 +23,7 @@ the skin, on the body or in the clothes .
 
 * WBAN emerged as a new technology for E-healthcare ,communicated using short-range wireless communication techniques and allows the data and parameters of a patient's vital body move to be collected in medical database
 
-![alt text](https://10.100.13.215/16CO132/CO250-MP-130-132/blob/master/diagram_1.png)
+![alt text](https://github.com/bobbypt05/test/blob/master/diagram_1.png)
 
 * As shown, sensors detect vital signs which are in analog
 form. Next convert them to digital.
