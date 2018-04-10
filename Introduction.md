@@ -23,7 +23,7 @@ the skin, on the body or in the clothes .
 
 * WBAN emerged as a new technology for E-healthcare ,communicated using short-range wireless communication techniques and allows the data and parameters of a patient's vital body move to be collected in medical database
 
-![alt text](https://github.com/bobbypt05/test/blob/master/diagram_1.png)
+![alt text](diagram_1.png)
 
 * As shown, sensors detect vital signs which are in analog
 form. Next convert them to digital.
@@ -55,7 +55,7 @@ The third level encompasses remote servers that manage
 patient medical information.
 
 
-![alt text](https://10.100.13.215/16CO132/CO250-MP-130-132/blob/master/diagram_2.png)
+![alt text](diagram_2.png)
 
 **Bio Signal**
 
@@ -73,19 +73,19 @@ disruptions to person.
 
 **NRZ-I DIGITAL TO DIGITAL ENCODING**
 
-* ìIî i.e. inverse. ìZî i.e. zero that shows zero voltage
-level. ì1î shows if in start of bit interval signal polarity
-would be inverse, the bit equals ì1î.
+* ‚ÄúI‚Äù i.e. inverse. ‚ÄúZ‚Äù i.e. zero that shows zero voltage
+level. ‚Äú1‚Äù shows if in start of bit interval signal polarity
+would be inverse, the bit equals ‚Äú1‚Äù.
 
 * If in start of bit interval hasn't change level, the bit
-equals ì0î.
+equals ‚Äú0‚Äù.
 
 * NRZ-I is a differential method that less affected by the
 noise.
 
-![alt text](https://10.100.13.215/16CO132/CO250-MP-130-132/blob/master/diagram_3.png)
+![alt text](diagram_3.png)
 
-**WBANíS CERITERIA**
+**WBAN‚ÄôS CERITERIA**
 
 The most important WBAN bio signal transmission
 criteria are as follows:
@@ -97,7 +97,7 @@ time)
 component
 * Less influence from noise
 
-![alt text](https://10.100.13.215/16CO132/CO250-MP-130-132/blob/master/diagram_4.png)
+![alt text](diagram_4.png)
 
 **MODIFIED NRZ-I (MNRZ-I)**
 
@@ -120,4 +120,4 @@ B. DC Component
 With the change made is clear that area under the diagram
 is close to zero. It's an improvement on DC component.
 
-![alt text](https://10.100.13.215/16CO132/CO250-MP-130-132/blob/master/diagram_5.png)
+![alt text](diagram_5.png)
