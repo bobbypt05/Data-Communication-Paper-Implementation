@@ -13,7 +13,7 @@ A = zeros(2000,100);
 %modulus by 2 to get the desired binary bits.
 for i=1:2000
     for j=1:100
-        A(i,j) = mod((floor(rand *100)),2) ;
+        A(i,j) = mod((ceil(rand *100)),2) ;
     end
 end
 
@@ -71,19 +71,12 @@ for i=1:2000
         end
     end
     
-    arrToPlot(i) =areaUnderTheCurve / 20;
+    arrToPlot(i) = (areaUnderTheCurve / 20)*100;
 end
 
 %---------------------Integration Part Ended-------------------------------
 
-%------------------------Plotting Graph------------------------------------
-
 %Total Number of bit string
 i = 1:1:2000;
-%Plot function to plot the Graph.
-%plot(i,arrToPlot,'b');
-%title(['MNRZI DC Component Average :']);
-
-%------------------------Plotting Finished---------------------------------
 
 %----------------------------End Of Code-----------------------------------

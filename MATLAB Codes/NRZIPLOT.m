@@ -13,7 +13,7 @@ A = zeros(2000,100);
 %modulus by 2 to get the desired binary bits.
 for i=1:2000
     for j=1:100
-        A(i,j) = mod((floor(rand *100)),2) ;
+        A(i,j) = mod((ceil(rand *100)),2) ;
     end
 end
 
@@ -39,11 +39,12 @@ for i=1:2000
 end
 
 %Array for Average DC Component of Each bit string(Total 2000).
-arrToPlot = [1:1:2000];                            
+arrToPlot = [1:1:2000];    
 
 %Integration is Nothing but the area under the graph with time axis.
 %Below is the code for the Intergration(Area with time axis).
 for i=1:2000
+    
     areaUnderTheCurve = 0;
     
     for j=1:100
@@ -54,19 +55,13 @@ for i=1:2000
         end
     end
     
-    arrToPlot(i) =areaUnderTheCurve / 20;
+    arrToPlot(i) =(areaUnderTheCurve / 20)*100;
+    
 end
 
 %---------------------Integration Part Ended-------------------------------
 
-%------------------------Plotting Graph------------------------------------
-
 %Total Number of bit string
 i = 1:1:2000;
-%Plot function to plot the Graph.
-%plot(i,arrToPlot,'r');
-%title(['NRZI DC Component Average :']);
-
-%------------------------Plotting Finished---------------------------------
 
 %----------------------------End Of Code-----------------------------------
