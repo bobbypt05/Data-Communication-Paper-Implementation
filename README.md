@@ -46,6 +46,8 @@ Ehsan Abedini, Abdalhossein Rezai, "A Modified Digital to Digital Encoding Metho
 
 * Design.md - This file explain design aspects of the mini project.
 
+* Result.md - This file shows the final result of the paper.
+
 * MAIN_FILE.m - Main Matlab code.
 
 * NRZI.m - Matlab code for Non Return To Zero Inverted.
