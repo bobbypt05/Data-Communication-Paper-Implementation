@@ -1,5 +1,4 @@
-
-
+%This file contains a code for NRZI digital to digital encoding method
 %-------------- Plot of Non Return to Zero - Inverted -----------------
 
 
@@ -12,6 +11,7 @@ dt = T/N;                                    %Small time dt
 t = 0:dt:T;                                  %Increment in small intervals
 x = zeros(1,length(t));                      %Output Signal
 valueToAssign = 1;                           %Current signal level to assign
+var = 1;
 
 %------- Code to plot the Non Return To Zero inverted -------
 for i = 0:length(bitSequence)-1

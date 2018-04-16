@@ -1,3 +1,5 @@
+% This file contains code for NRZI Plot which plots the graph of DC Average Component for NRZI.
+
 
 function [i,arrToPlot] = NRZIPLOT(bitRate)
 

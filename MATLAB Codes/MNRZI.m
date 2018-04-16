@@ -1,5 +1,4 @@
-
-
+% This file contains a code for MNRZI digital to digital encoding method
 
 %-------------- Function to plot Modern Non Return to Zero - Inverted -----------------
 
@@ -13,6 +12,7 @@ t = 0:dt:T;                                  %Increment in small intervals
 x = zeros(1,length(t));                      %Output Signal
 valueToAssign = 1;                           %Current signal level to assign
 prevTwoZeroCount=0;                          %Variable to maintain the previous zero count
+previous = 1;
 
 %------- Code to plot the Modern Non Return To Zero inverted -------
 

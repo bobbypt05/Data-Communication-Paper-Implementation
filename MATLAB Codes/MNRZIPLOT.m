@@ -1,3 +1,4 @@
+% This file contains code for MNRZI Plot which plots the graph of DC Average Component for MNRZI.
 
 function [i,arrToPlot] = MNRZIPLOT(bitRate)
 
