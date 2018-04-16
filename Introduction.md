@@ -1,4 +1,3 @@
-
 ## Data Communications (CO250): Mini-Project :: Introduction file
 
 * According to the World Health Organisation (WHO) ,   cardiovascular disease causes 30 percent of all deaths
@@ -23,7 +22,7 @@ the skin, on the body or in the clothes .
 
 * WBAN emerged as a new technology for E-healthcare ,communicated using short-range wireless communication techniques and allows the data and parameters of a patient's vital body move to be collected in medical database
 
-![alt text](Images/Diagrams/diagram_1.png)
+![alt text](diagram_1.png)
 
 * As shown, sensors detect vital signs which are in analog
 form. Next convert them to digital.
@@ -55,7 +54,7 @@ The third level encompasses remote servers that manage
 patient medical information.
 
 
-![alt text](Images/Diagrams/diagram_2.png)
+![alt text](diagram_2.png)
 
 **Bio Signal**
 
@@ -83,7 +82,7 @@ equals “0”.
 * NRZ-I is a differential method that less affected by the
 noise.
 
-![alt text](Images/Diagrams/diagram_3.png)
+![alt text](diagram_3.png)
 
 **WBAN’S CERITERIA**
 
@@ -97,7 +96,7 @@ time)
 component
 * Less influence from noise
 
-![alt text](Images/Diagrams/diagram_4.png)
+![alt text](diagram_4.png)
 
 **MODIFIED NRZ-I (MNRZ-I)**
 
@@ -120,4 +119,4 @@ B. DC Component
 With the change made is clear that area under the diagram
 is close to zero. It's an improvement on DC component.
 
-![alt text](Images/Diagrams/diagram_5.png)
+![alt text](diagram_5.png)
