@@ -4,7 +4,7 @@
 
 A Modified Digital to Digital Encoding Method to Improve the Wireless Body Area Network(WBAN) Transmission
 
-This CO250-MP-130-132 repository is a joint Matlab assignment of Data Communication.
+This repository is a joint Matlab assignment of Data Communication.
 
 **HOW TO CLONE:**
 
