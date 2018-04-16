@@ -9,26 +9,26 @@ Graphs:
 
 This is the first graph we obtained from our simulation.
 DC Average Component for NRZI is -0.21 & for MNRZI is -0.1185.So MNRZI is better compared to NRZI. 
-![alt text](Graph_1.png)
+![alt text](Images/Screenshots/Graph_1.png)
 
 This is the second graph we obtained from our simulation.
 DC Average Component for NRZI is -0.284 & for MNRZI is -0.218.So MNRZI is better compared to NRZI. 
-![alt text](Graph_2.png)
+![alt text](Images/Screenshots/Graph_2.png)
 
 This is the third graph we obtained from our simulation.
 DC Average Component for NRZI is -0.044 & for MNRZI is -0.443.For this case due to random generation of number NRZI is better compared to MNRZI. 
-![alt text](Graph_3.png)
+![alt text](Images/Screenshots/Graph_3.png)
 
 This is the fourth graph we obtained from our simulation.
 DC Average Component for NRZI is -0.145 & for MNRZI is -0.0665.So MNRZI is better compared to NRZI. 
-![alt text](Graph_4.png)
+![alt text](Images/Screenshots/Graph_4.png)
 
 This is the fifth graph we obtained from our simulation.
 DC Average Component for NRZI is -0.088 & for MNRZI is -0.0195.So MNRZI is better compared to NRZI.So Average component in MNRZ-I can be improved upto 75%. 
-![alt text](Graph_5.png)
+![alt text](Images/Screenshots/Graph_5.png)
 
 These are the results obtained by generating 2000 bit string randomly and results are recorded in table as given below.
 
 Result Table:
 
-![alt text](result_table.png)
+![alt text](Images/Diagrams/result_table.png)
