@@ -58,30 +58,6 @@ Ehsan Abedini, Abdalhossein Rezai, "A Modified Digital to Digital Encoding Metho
 
 * MAIN_PLOT.m - Matlab code for Plotting Main Results.
 
-* diagram_1.png - Contains diagrams used in Introduction file.
-
-* diagram_2.png - Contains diagrams used in Introduction file.
-
-* diagram_3.png - Contains diagrams used in Introduction file.
-
-* diagram_4.png - Contains diagrams used in Introduction file.
-
-* diagram_5.png - Contains diagrams used in Introduction file.
-
-* Graph_1.png - Graph-1 of result obtained by simulating MNRZI & NRZI.
-
-* Graph_2.png - Graph-2 of result obtained by simulating MNRZI & NRZI.
-
-* Graph_3.png - Graph-3 of result obtained by simulating MNRZI & NRZI.
-
-* Graph_4.png - Graph-4 of result obtained by simulating MNRZI & NRZI.
-
-* Graph_5.png - Graph-5 of result obtained by simulating MNRZI & NRZI.
-
-* result_table.png - Snapshot of Table obtained for comparison by simulating MNRZI & NRZI.
-
-* run_ss.png - Snapshot of How run window looks in matlab.
-
 **HOW TO RUN:**
 
 - After Cloning repository (Mentioned above how to clone) Open the matlab and follow the below instructions.
@@ -91,8 +67,8 @@ folder and same directory
 
 - To get the final result of simulation Click on "RUN" button in matlab as shown below in figure:
 
-![alt text](run_ss.png)
+![alt text](Images/Diagrams/run_ss.png)
 
 - So clicking on it Graph will be generated in new window as shown below. It will be containing 2 subplots in it. First one on left is NRZI DC Average component Graph obtained after taking sample of 2000 bits string that every bit string length is 100 bits and they are generated randomly. Second one on right is MNRZI DC Average component Graph obtained after taking sample of 2000 bits string that every bit string length is 100 bits and they are generated randomly.
 
-![alt text](Graph_5.png)
+![alt text](Images/Screenshots/Graph_5.png)
