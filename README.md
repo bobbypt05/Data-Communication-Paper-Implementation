@@ -9,8 +9,8 @@ This repository is a joint Matlab assignment of Data Communication.
 **HOW TO CLONE:**
 
 Follow the steps given below: 
-- git -c http.sslVerify=false clone http://10.100.13.215/16CO132/CO250-MP-130-132.git 
-- cd CO250-MP-130-132
+- git clone https://github.com/bobbypt05/Data-Communication-Paper-Implementation.git
+- cd to Data-Communication-Paper-Implementation
 - Now follow the instructions given at the end in README.md in this repository
 - Pull Requests welcome
 
